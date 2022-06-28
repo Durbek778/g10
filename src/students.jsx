@@ -7,7 +7,7 @@ class Student extends React.Component {
         return (
             <Container>  
                 <Box size='small'>
-                     Small box <Icons.Bed/>
+                     Sma box <Icons.Bed/>
                 </Box>
                 <Box size='medium'> Medium box<Icons.Bed/></Box>
                 <Box size='large'> Large box<Icons.Bed/></Box>
