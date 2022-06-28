@@ -17,5 +17,6 @@ class Student extends React.Component {
         )
     }
 }
+// branch sidebar
 
-export default Student        
+export default Student         
